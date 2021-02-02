@@ -1,0 +1,2 @@
+# Credit Card Transactions Analysis
+This Jupyter Notebook was a simple exercise to practice using some of the methods and tools in the Pandas library and perform basic data exploration. All information in the dataset is entirely fake, and as a result, might not make sense. Instead, the goal of this exercise was to ask a question about the dataset and then determine how to retrieve the relevant data needed to answer that question.
